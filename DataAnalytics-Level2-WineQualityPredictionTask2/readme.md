@@ -199,6 +199,36 @@ Random Forest feature importance determines which chemical properties contribute
 
 ---
 
+## 📊 Visualizations
+###  📊 Wine Quality Score Distribution
+<img src="" height="1000px">
+
+### 📈 Chemical Feature Distribution Plots
+<img src="" height="1000px">
+
+### 🔥 Correlation Heatmap
+<img src="" height="1000px">
+
+### ⚖️ Class Distribution
+<img src="" height="1000px">
+
+### 🌲 Random Forest Confusion Matrix
+<img src="" height="1000px">
+
+### 📉 SGD Confusion Matrix
+<img src="" height="1000px">
+
+### 🎯 SVC Confusion Matrix
+<img src="" height="1000px">
+
+### ⭐ Random Forest Feature Importance Chart
+<img src="" height="1000px">
+
+### 📊 Model Performance Comparison
+<img src="" height="1000px">
+
+---
+
 ## ▶️ Sample Code
 ```python
 import pandas as pd
