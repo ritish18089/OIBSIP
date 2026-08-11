@@ -176,6 +176,18 @@ A production system processing 1 million transactions/hour needs to handle ~278 
 
 ---
 
+## 📊 Visualizations
+
+📊 Fraud vs. Non-Fraud Class Distribution
+💰 Transaction Amount Distribution
+🕐 Transaction Distribution by Time of Day
+📈 Fraud Percentage by Hour
+⚖️ Class Distribution After SMOTE
+📋 Model Performance Comparison
+📉 AUC-ROC Curve
+🌲 Random Forest Feature Importance
+
+
 ## ▶️ Sample Code
 ### Load & Resample
 ```python
