@@ -1,7 +1,16 @@
-# 🏠 House Price Prediction using Linear Regression
+<div align="center">
+  <h1>🏠 House Price Prediction using Linear Regression</h1>
+  <p><i>A comprehensive Exploratory Data Analysis (EDA) project on Google Play Store app and user review data.</i></p>
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+  ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+</div>
 
-A comprehensive Machine Learning project focused on predicting house prices using **Linear Regression**. The project uses **Python**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and **Scikit-learn** to perform data exploration, preprocessing, model training, evaluation, visualization, and coefficient analysis.
-
+<br/>
 
 
 ## 🚀 Features
@@ -28,13 +37,9 @@ A comprehensive Machine Learning project focused on predicting house prices usin
 
 ## 🛠️ Tech Stack
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Jupyter Notebook
+- **Language:** Python
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Environment:** Jupyter Notebook
 
 
 
@@ -49,164 +54,146 @@ House-Price-Prediction/
 └── images/
 ```
 
+
+
 ## 📦 Installation
-Clone the repository
-```bash
-git clone https://github.com/your-username/House-Price-Prediction.git
-```
-Move into the project directory
-```bash
-cd House-Price-Prediction
-```
-Install the required libraries
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
-Launch Jupyter Notebook
-jupyter notebook
-Open:
-```bash
-House Price Prediction.ipynb
-```
-Run all the cells sequentially.
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/House-Price-Prediction.git
+   ```
+2. **Move into the project directory**
+   ```bash
+   cd House-Price-Prediction
+   ```
+3. **Install the required libraries**
+   ```bash
+   pip install pandas numpy matplotlib seaborn scikit-learn
+   ```
+4. **Launch Jupyter Notebook**
+   ```bash
+   jupyter notebook
+   ```
+5. **Open & Run**
+   Open `House Price Prediction.ipynb` and run all the cells sequentially.
+
+
 
 ## 📊 Dataset
+
 The dataset contains house/property information used to predict house prices.
-Dataset Features:
-- Area – Size of the property
-- No. of Bedrooms – Number of bedrooms in the property
-- City – City where the property is located
-- Location – Specific location of the property
-- Price – Target variable representing the house price
+
+**Dataset Features:**
+- `Area` – Size of the property
+- `No. of Bedrooms` – Number of bedrooms in the property
+- `City` – City where the property is located
+- `Location` – Specific location of the property
+- `Price` – Target variable representing the house price
+
 
 
 ## 🎯 Objective
+
 The main objective of this project is to develop a machine learning model that can predict house prices based on property characteristics such as area, number of bedrooms, city, and location.
 
+
+
 ## 📈 Analysis and Machine Learning Process
+
 ### 1️⃣ Data Loading and Inspection
 - Dataset loading using Pandas
-- Display first few records
-- Dataset shape
-- Column information
-- Data types
+- Display first few records, dataset shape, column information, and data types
 - Null value analysis
   
 ### 2️⃣ Exploratory Data Analysis
-- Descriptive statistics
-- Mean, median, minimum, and maximum values
-- Standard deviation
+- Descriptive statistics (Mean, median, minimum, maximum values, standard deviation)
 - Distribution of the target variable
 - Analysis of numerical features
 
 ### 3️⃣ Target Variable Analysis
-- The Price column is selected as the target variable.
+- The `Price` column is selected as the target variable.
 - A histogram with KDE is used to understand the distribution of house prices and identify skewness and variation in property prices.
 
 ### 4️⃣ Feature Selection
-The following features are selected as predictors:
-- Area
-- No. of Bedrooms
-- City
-- Location
-- These features were selected because property size, number of bedrooms, and location-related factors are important determinants of house prices.
+- Features selected as predictors: `Area`, `No. of Bedrooms`, `City`, `Location`
+- Selected because property size, number of bedrooms, and location-related factors are important determinants of house prices.
 
 ### 5️⃣ Data Preprocessing
-- The dataset is prepared for machine learning using:
-- Missing value handling
-- Median imputation for numerical features
-- Most-frequent imputation for categorical features
-- One-Hot Encoding for categorical variables
-- The categorical features City and Location are converted into numerical representations so that they can be used by the Linear Regression model.
+- Missing value handling: Median imputation for numerical features, most-frequent imputation for categorical features
+- One-Hot Encoding: The categorical features `City` and `Location` are converted into numerical representations.
 
 ### 6️⃣ Correlation Analysis
-- A correlation heatmap is created for numerical variables to understand relationships between:
-- Price
-- Area
-- No. of Bedrooms
-- The correlation with Price is analyzed to identify potentially important numerical predictors.
+- A correlation heatmap is created for numerical variables to understand relationships between `Price`, `Area`, and `No. of Bedrooms`.
 
 ### 7️⃣ Train-Test Split
-- The dataset is divided into:
-- 80% Training Data
-- 20% Testing Data
+- 80% Training Data / 20% Testing Data
 - A random state of 42 is used to ensure reproducible results.
 
 ### 8️⃣ Linear Regression Model
-- A Linear Regression model is trained using Scikit-learn.
-- The model learns the relationship between the selected house features and the target variable Price.
+- A Linear Regression model is trained using Scikit-learn to learn the relationship between features and the target variable `Price`.
 
 ### 9️⃣ Model Evaluation
-- The Linear Regression model is evaluated using:
-- Mean Squared Error (MSE)
-- Root Mean Squared Error (RMSE)
-- R² Score
-- Lower MSE and RMSE indicate lower prediction errors, while a higher R² score indicates better model performance.
+- Evaluated using Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R² Score.
 
 ### 🔟 Actual vs. Predicted Prices
-
-- A scatter plot is created to compare:
-- Actual house prices
-- Predicted house prices
-- Points closer to the diagonal reference line indicate more accurate predictions.
+- A scatter plot compares actual and predicted house prices. Points closer to the diagonal indicate more accurate predictions.
 
 ### 1️⃣1️⃣ Residual Analysis
-- A residual plot is used to examine the prediction errors.
-- The residuals should ideally be randomly distributed around zero without a systematic pattern.
-- This helps determine whether Linear Regression is an appropriate model for the selected features.
+- A residual plot examines prediction errors to check if they are randomly distributed around zero.
 
 ### 1️⃣2️⃣ Coefficient Analysis
-- Regression coefficients are analyzed to identify features with:
-- Highest positive impact
-- Highest negative impact
-- Positive coefficients indicate a positive contribution to predicted house prices, while negative coefficients indicate a negative contribution.
+- Analyzes regression coefficients to identify features with the highest positive and negative impact on predicted house prices.
 
 ### 1️⃣3️⃣ Ridge Regression Comparison
-- As an additional experiment, Ridge Regression is compared with Linear Regression.
-- Both models are evaluated using:
-- MSE
-- RMSE
-- R² Score
-- The model with lower prediction errors and a higher R² score is considered to have better performance on the test data.
+- Compares Ridge Regression with Linear Regression using MSE, RMSE, and R² Score to evaluate regularized performance.
+
 
 ## 📊 Visualizations
-The project includes the following visualizations:
-### 📊 Distribution of House Prices
-<p align="center"><img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/1.png" height="1000px">
-  
-### 🔥 Correlation Heatmap
-<p align="center"><img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/2.png" height="1000px">
-  
-### 🏠 Actual vs. Predicted House Prices
-<p align="center"><img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/3.png" height="1000px">
-  
-### 📉 Residual Plot
-<p align="center"><img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/4.png" height="1000px">
-  
-### 📈 Regression Coefficient Analysis
-<p align="center"><img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/5.png" height="1000px">
-  
-### ⚖️ Linear Regression vs. Ridge Regression Comparison
-<p align="center"><img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/6.png" height="1000px">
+
+<details>
+<summary><b>Click to View Visualizations</b></summary>
+
+| 📊 Distribution of House Prices | 🔥 Correlation Heatmap |
+| :---: | :---: |
+| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/1.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/2.png" height="300px"> |
+
+| 🏠 Actual vs. Predicted House Prices | 📉 Residual Plot |
+| :---: | :---: |
+| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/3.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/4.png" height="300px"> |
+
+| 📈 Regression Coefficient Analysis | ⚖️ Linear Regression vs. Ridge Regression Comparison |
+| :---: | :---: |
+| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/5.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/6.png" height="300px"> |
+
+</details>
+
+---
 
 ## 🔍 Key Insights
+
 - House prices show considerable variation across different properties.
-- Property Area is an important numerical factor influencing house prices.
-- The Number of Bedrooms provides additional information about property size and value.
-- City and Location can capture differences in property prices between different areas.
-- One-Hot Encoding allows categorical location features to be incorporated into the regression model.
-- The actual-versus-predicted plot helps visualize the accuracy of the model.
-- Residual analysis helps identify systematic prediction errors.
-- Ridge Regression provides a regularized alternative to ordinary Linear Regression.
+- Property **Area** is an important numerical factor influencing house prices.
+- The **Number of Bedrooms** provides additional information about property size and value.
+- **City and Location** can capture differences in property prices between different areas.
+- **One-Hot Encoding** allows categorical location features to be incorporated into the regression model.
+- The **actual-versus-predicted plot** helps visualize the accuracy of the model.
+- **Residual analysis** helps identify systematic prediction errors.
+- **Ridge Regression** provides a regularized alternative to ordinary Linear Regression.
+
+---
 
 ## 💡 Business Recommendations
-- Property developers can consider area, location, and bedroom count when estimating property prices.
-- Real-estate businesses can use price prediction models to support preliminary property valuation.
-- Marketing strategies can be adjusted according to differences in property values across locations.
-- Additional features such as property age, amenities, parking, and neighborhood characteristics could improve future predictions.
+
+- **Property developers** can consider area, location, and bedroom count when estimating property prices.
+- **Real-estate businesses** can use price prediction models to support preliminary property valuation.
+- **Marketing strategies** can be adjusted according to differences in property values across locations.
+- **Additional features** such as property age, amenities, parking, and neighborhood characteristics could improve future predictions.
+
+---
 
 ## 📚 Libraries Used
-```text
+
+```python
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -221,28 +208,28 @@ from sklearn.linear_model import LinearRegression, Ridge
 from sklearn.metrics import mean_squared_error, r2_score
 ```
 
-## 🎓 Learning Outcomes:
-- Through this project, the following skills were developed:
+---
+
+## 🎓 Learning Outcomes
+
+Through this project, the following skills were developed:
 - Data Loading and Inspection
 - Exploratory Data Analysis
-- Data Cleaning
-- Missing Value Handling
-- Feature Selection
-- Categorical Feature Encoding
+- Data Cleaning & Missing Value Handling
+- Feature Selection & Categorical Feature Encoding
 - Correlation Analysis
-- Linear Regression
-- Model Evaluation
-- Residual Analysis
+- Linear Regression & Ridge Regression
+- Model Evaluation & Residual Analysis
 - Regression Coefficient Interpretation
--Regularization using Ridge Regression
 - Data Visualization
 - Machine Learning Workflow
 
+---
+
 ## 📌 Future Improvements
+
 The model can be improved in future by:
-- Adding more property-related features
-- Including property age/year built
-- Including amenities such as parking and bathrooms
+- Adding more property-related features (e.g., property age/year built, amenities, parking, bathrooms)
 - Applying feature scaling where appropriate
 - Testing Lasso and Elastic Net Regression
 - Performing hyperparameter tuning
@@ -250,13 +237,19 @@ The model can be improved in future by:
 - Deploying the trained model as a web application
 - Creating an interactive house-price prediction dashboard
 
+---
+
 ## 👨‍💻 Author
-### Ritish Kannur
+
+**Ritish Kannur**
 - Python Developer
 - Java Full Stack Developer
 - Data Analytics Enthusiast
 - Machine Learning Enthusiast
 
+---
+
 ## ⭐ Support
+
 If you found this project useful, consider giving it a ⭐ on GitHub.
 Happy Coding! 🚀
