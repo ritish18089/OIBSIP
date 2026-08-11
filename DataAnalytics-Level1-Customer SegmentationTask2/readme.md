@@ -149,7 +149,7 @@ Generated targeted marketing recommendations, customer retention strategies, and
 
 ---
 
-## ▶️ Sample Code
+## ▶️ Libraries
 ```python
 import pandas as pd
 import numpy as np
