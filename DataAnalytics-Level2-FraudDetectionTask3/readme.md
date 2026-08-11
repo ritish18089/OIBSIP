@@ -200,13 +200,13 @@ A production system processing 1 million transactions/hour needs to handle ~278 
 | :---: | :---: |
 | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/3.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/4.png" height="300px"> |
 
-| ⚖️ Class Distribution After SMOTE | 📋 Model Performance Comparison |
+| ⚖️ Class Distribution After SMOTE | 📉 AUC-ROC Curve |
 | :---: | :---: |
 | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/5.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/6.png" height="300px"> |
 
-| 📉 AUC-ROC Curve | 🌲 Random Forest Feature Importance |
+|🌲 Random Forest Feature Importance |  |
 | :---: | :---: |
-| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/5.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/6.png" height="300px"> |
+| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/5.png" height="300px"> | |
 
 </details>
 
