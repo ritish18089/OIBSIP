@@ -148,7 +148,7 @@ Saved the cleaned dataset as a new CSV file (`NFL_PlayByPlay_Cleaned.csv`), pres
 
 ---
 
-## ▶️ Sample Code
+## ▶️ Libraries
 ```python
 import pandas as pd
 import numpy as np
