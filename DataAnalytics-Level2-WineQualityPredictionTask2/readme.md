@@ -201,32 +201,57 @@ Random Forest feature importance determines which chemical properties contribute
 
 ## 📊 Visualizations
 ###  📊 Wine Quality Score Distribution
-<img src="" height="1000px">
+<img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-WineQualityPredictionTask2/Images/1.png" height="1000px">
 
 ### 📈 Chemical Feature Distribution Plots
-<img src="" height="1000px">
+<img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-WineQualityPredictionTask2/Images/1.png" height="1000px">
 
 ### 🔥 Correlation Heatmap
-<img src="" height="1000px">
+<img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-WineQualityPredictionTask2/Images/1.png" height="1000px">
 
 ### ⚖️ Class Distribution
-<img src="" height="1000px">
+<img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-WineQualityPredictionTask2/Images/1.png" height="1000px">
 
 ### 🌲 Random Forest Confusion Matrix
-<img src="" height="1000px">
+<img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-WineQualityPredictionTask2/Images/1.png" height="1000px">
 
 ### 📉 SGD Confusion Matrix
-<img src="" height="1000px">
+<img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-WineQualityPredictionTask2/Images/1.png" height="1000px">
 
 ### 🎯 SVC Confusion Matrix
-<img src="" height="1000px">
+<img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-WineQualityPredictionTask2/Images/1.png" height="1000px">
 
 ### ⭐ Random Forest Feature Importance Chart
-<img src="" height="1000px">
+<img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-WineQualityPredictionTask2/Images/1.png" height="1000px">
 
 ### 📊 Model Performance Comparison
-<img src="" height="1000px">
+<img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-WineQualityPredictionTask2/Images/1.png" height="1000px">
 
+## 📊 Visualizations
+
+<details>
+<summary><b>Click to View Visualizations</b></summary>
+
+|📊 Wine Quality Score Distribution| 📈 Chemical Feature Distribution Plots |
+| :---: | :---: |
+| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/1.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/2.png" height="300px"> |
+
+|🔥 Correlation Heatmap | ⚖️ Class Distribution |
+| :---: | :---: |
+| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/3.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/4.png" height="300px"> |
+
+| 🌲 Random Forest Confusion Matrix |  📉 SGD Confusion Matrix |
+| :---: | :---: |
+| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/5.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/6.png" height="300px"> |
+
+| SVC Confusion Matrix|  ⭐ Random Forest Feature Importance Chart|
+| :---: | :---: |
+| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/5.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Predicting%20House%20Prices%20with%20Linear%20RegressionTask1/Images/6.png" height="300px"> |
+
+
+
+
+</details>
 ---
 
 ## ▶️ Sample Code
