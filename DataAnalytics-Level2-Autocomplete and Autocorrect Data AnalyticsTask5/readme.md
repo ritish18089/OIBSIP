@@ -61,7 +61,7 @@ Autocomplete-and-Autocorrect/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Autocomplete-and-Autocorrect.git
+   git clone https://github.com/ritish18089/Autocomplete-and-Autocorrect.git
    ```
 
 2. **Move into the project directory**
