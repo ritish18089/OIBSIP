@@ -53,7 +53,7 @@ Customer-Segmentation-using-KMeans/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Customer-Segmentation-using-KMeans.git
+   git clone https://github.com/ritish18089/Customer-Segmentation-using-KMeans.git
    ```
 
 2. **Move into the project directory**
