@@ -151,26 +151,17 @@ Tested on deliberately misspelled words:
 <details>
 <summary><b>Click to View Visualizations</b></summary>
 
-| 📊 App Distribution Across Categories| 📈 Rating Distribution |
+| 📊 Top 20 Most Frequent Words| 📈 Bigram vs. Trigram Performance |
 | :---: | :---: |
 | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/1.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/2.png" height="300px"> |
 
-| ⭐ Average Rating by Category| 📱 App Size vs. Number of Installs |
+| ⭐ Autocomplete Precision and Recall| 🔤 Autocorrect Before vs. After Correction |
 | :---: | :---: |
 | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/3.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/4.png" height="300px"> |
 
-| 💰 Free vs. Paid App Distribution | 💵 Price Distribution of Paid Apps|
+| 🔥 Autocorrect Confusion Matrix | |
 | :---: | :---: |
-| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/5.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/6.png" height="300px"> |
-
-|📊 Estimated Revenue by Category | 😊 Positive/Neutral/Negative Sentiment Distribution |
-| :---: | :---: |
-| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/7.png" height="300px"> |<img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/8.png" height="300px"> |
-
-
-|📊 Sentiment by Category | 🖱️ Interactive Plotly Visualizations |
-| :---: | :---: |
-| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/9.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/10.png" height="300px">|
+| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/5.png" height="300px"> | |
 
 </details>
 
