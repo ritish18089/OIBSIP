@@ -140,19 +140,24 @@ Contains sentiment-analysis information: `App`, `Category`, `Translated Review`,
 <details>
 <summary><b>Click to View Visualizations</b></summary>
 
-| Fraud vs. Non-Fraud Class Distribution| 💰 Transaction Amount Distribution |
+| 📊 App Distribution Across Categories| 📈 Rating Distribution |
 | :---: | :---: |
 | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-FraudDetectionTask3/Images/1.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-FraudDetectionTask3/Images/2.png" height="300px"> |
 
-| 🕐 Transaction Distribution by Time of Day| 📈 Fraud Percentage by Hour |
+| ⭐ Average Rating by Category| 📱 App Size vs. Number of Installs |
 | :---: | :---: |
 | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-FraudDetectionTask3/Images/3.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-FraudDetectionTask3/Images/4.png" height="300px"> |
 
-| ⚖️ Class Distribution After SMOTE | 📉 AUC-ROC Curve |
+| 💰 Free vs. Paid App Distribution | 💵 Price Distribution of Paid Apps|
 | :---: | :---: |
 | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-FraudDetectionTask3/Images/5.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-FraudDetectionTask3/Images/6.png" height="300px"> |
 
-|🌲 Random Forest Feature Importance |  |
+|📊 Estimated Revenue by Category | 😊 Positive/Neutral/Negative Sentiment Distribution |
+| :---: | :---: |
+| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-FraudDetectionTask3/Images/7.png" height="300px"> | |
+
+
+|📊 Sentiment by Category | 🖱️ Interactive Plotly Visualizations |
 | :---: | :---: |
 | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-FraudDetectionTask3/Images/7.png" height="300px"> | |
 
