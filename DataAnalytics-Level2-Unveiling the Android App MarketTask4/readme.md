@@ -135,6 +135,31 @@ Contains sentiment-analysis information: `App`, `Category`, `Translated Review`,
 
 ---
 
+## 📊 Visualizations
+
+<details>
+<summary><b>Click to View Visualizations</b></summary>
+
+| Fraud vs. Non-Fraud Class Distribution| 💰 Transaction Amount Distribution |
+| :---: | :---: |
+| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-FraudDetectionTask3/Images/1.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-FraudDetectionTask3/Images/2.png" height="300px"> |
+
+| 🕐 Transaction Distribution by Time of Day| 📈 Fraud Percentage by Hour |
+| :---: | :---: |
+| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-FraudDetectionTask3/Images/3.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-FraudDetectionTask3/Images/4.png" height="300px"> |
+
+| ⚖️ Class Distribution After SMOTE | 📉 AUC-ROC Curve |
+| :---: | :---: |
+| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-FraudDetectionTask3/Images/5.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-FraudDetectionTask3/Images/6.png" height="300px"> |
+
+|🌲 Random Forest Feature Importance |  |
+| :---: | :---: |
+| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-FraudDetectionTask3/Images/7.png" height="300px"> | |
+
+</details>
+
+---
+
 ## ▶️ Sample Code
 
 ### Interactive Plotly Visualization
