@@ -146,6 +146,36 @@ Tested on deliberately misspelled words:
 
 ---
 
+## 📊 Visualizations
+
+<details>
+<summary><b>Click to View Visualizations</b></summary>
+
+| 📊 App Distribution Across Categories| 📈 Rating Distribution |
+| :---: | :---: |
+| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/1.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/2.png" height="300px"> |
+
+| ⭐ Average Rating by Category| 📱 App Size vs. Number of Installs |
+| :---: | :---: |
+| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/3.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/4.png" height="300px"> |
+
+| 💰 Free vs. Paid App Distribution | 💵 Price Distribution of Paid Apps|
+| :---: | :---: |
+| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/5.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/6.png" height="300px"> |
+
+|📊 Estimated Revenue by Category | 😊 Positive/Neutral/Negative Sentiment Distribution |
+| :---: | :---: |
+| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/7.png" height="300px"> |<img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/8.png" height="300px"> |
+
+
+|📊 Sentiment by Category | 🖱️ Interactive Plotly Visualizations |
+| :---: | :---: |
+| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/9.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/10.png" height="300px">|
+
+</details>
+
+---
+
 ## ▶️ Sample Code
 ```python
 import pandas as pd
