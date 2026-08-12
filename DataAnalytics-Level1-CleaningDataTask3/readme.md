@@ -50,7 +50,7 @@ NFL-Data-Cleaning/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/NFL-Data-Cleaning.git
+   git clone https://github.com/ritish18089/NFL-Data-Cleaning.git
    ```
 
 2. **Move into the project directory**
