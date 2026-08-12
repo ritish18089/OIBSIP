@@ -63,7 +63,7 @@ Wine-Quality-Prediction/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Wine-Quality-Prediction.git
+   git clone https://github.com/ritish18089/Wine-Quality-Prediction.git
    ```
 
 2. **Move into the project directory**
