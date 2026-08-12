@@ -55,7 +55,7 @@ Amazon-Sentiment-Analysis/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Amazon-Sentiment-Analysis.git
+   git clone https://github.com/ritish18089/Amazon-Sentiment-Analysis.git
    ```
 
 2. **Move into the project directory**
