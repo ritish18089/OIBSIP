@@ -58,7 +58,7 @@ Unveiling-the-Android-App-Market/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Unveiling-the-Android-App-Market.git
+   git clone https://github.com/ritish18089/Unveiling-the-Android-App-Market.git
    ```
 
 2. **Move into the project directory**
