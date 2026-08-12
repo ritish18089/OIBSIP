@@ -51,7 +51,7 @@ EDA-on-Retail-Sales/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/EDA-on-Retail-Sales.git
+   git clone https://github.com/ritish18089/EDA-on-Retail-Sales.git
    ```
 
 2. **Move into the project directory**
