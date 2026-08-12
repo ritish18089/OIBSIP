@@ -153,15 +153,15 @@ Tested on deliberately misspelled words:
 
 | 📊 Top 20 Most Frequent Words| 📈 Bigram vs. Trigram Performance |
 | :---: | :---: |
-| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/1.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/2.png" height="300px"> |
+| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Autocomplete%20and%20Autocorrect%20Data%20AnalyticsTask5/Images/1.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Autocomplete%20and%20Autocorrect%20Data%20AnalyticsTask5/Images/2.png" height="300px"> |
 
 | ⭐ Autocomplete Precision and Recall| 🔤 Autocorrect Performance on 20 Misspelled Words |
 | :---: | :---: |
-| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/3.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/4.png" height="300px"> |
+| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Autocomplete%20and%20Autocorrect%20Data%20AnalyticsTask5/Images/3.png" height="300px"> | <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Autocomplete%20and%20Autocorrect%20Data%20AnalyticsTask5/Images/4.png" height="300px"> |
 
 | 🔥 Autocorrect Confusion Matrix | |
 | :---: | :---: |
-| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Unveiling%20the%20Android%20App%20MarketTask4/Images/5.png" height="300px"> | |
+| <img src="https://github.com/ritish18089/OIBSIP/blob/main/DataAnalytics-Level2-Autocomplete%20and%20Autocorrect%20Data%20AnalyticsTask5/Images/5.png" height="300px"> | |
 
 </details>
 
